@@ -1,7 +1,9 @@
 # Meu Perfil
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1;">
+<div style="display: flex;">
+  <div style="flex: 1; padding-right: 10px;">
+    <pre>
+    <code>
     ```js
     import Desenvolvedor from "SeuNick";
 
@@ -11,6 +13,8 @@
       local = "Cianorte - PR";
     }
     ```
+    </code>
+    </pre>
   </div>
   <div style="flex: 1; text-align: right;">
     <img src="images/computer-illustration.png" alt="Image Computer" style="max-width: 100%; height: auto;">
