@@ -1,16 +1,15 @@
-## Hi there 👋
+# Meu Perfil
+![Image Computer](images/computer-illustration.png)
 
-<!--
-**CaiqueOrtega/CaiqueOrtega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="left"> 
+  ```js
+import Desenvolvedor from "SeuNick";
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class SobreMim extends Desenvolvedor {
+  nome = "Caique Ortega";
+  area = "Desenvolvimento de Software";
+  local = "Cianorte - PR";
+}
+```
+</p>
