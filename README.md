@@ -1,6 +1,6 @@
 ## 🌐 Sobre Mim <img src="https://img.shields.io/static/v1?label=Overview&message=CaiqueOrtega&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub" align="right" >
 <br />
-<img src="images/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="images/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right">
 
 ```js
 import Desenvolvedor from "CaiqueOrtega";
