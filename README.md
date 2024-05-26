@@ -1,8 +1,6 @@
 # Meu Perfil
 ![Image Computer](images/computer-illustration.png)
 
-
-<p align="left"> 
   ```js
 import Desenvolvedor from "SeuNick";
 
@@ -12,4 +10,4 @@ class SobreMim extends Desenvolvedor {
   local = "Cianorte - PR";
 }
 ```
-</p>
+
