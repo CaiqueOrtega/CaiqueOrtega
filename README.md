@@ -36,18 +36,18 @@ class SobreMim extends Desenvolvedor {
 <div align="center" >
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 
-<code><img height="32" src="icons/HTML.svg" title="HTML (HyperText Markup Language)" alt="HTML"/></code>
-<code><img height="32" src="icons/CSS.svg" title="CSS (Cascading Style Sheets)" alt="CSS"/></code>
-<code><img height="32" src="icons/JavaScript.svg" title="JavaScript (Programming Language)" alt="JavaScript"/></code>
-<code><img height="32" src="icons/TypeScript.svg" title="TypeScript (Superset of JavaScript)" alt="TypeScript"/></code>
-<code><img height="32" src="icons/React-Dark.svg" title="React (JavaScript Library for Building User Interfaces)" alt="React"/></code>
-<code><img height="32" src="icons/PHP-Dark.svg" title="PHP (Hypertext Preprocessor)" alt="PHP"/></code>
-<code><img height="32" src="icons/Git.svg" title="Git (Version Control System)" alt="Git"/></code>
-<code><img height="32" src="icons/NodeJS-Dark.svg" title="Node.js (JavaScript Runtime Environment)" alt="Node.js"/></code>
-<code><img height="32" src="icons/Npm-Dark.svg" title="NPM (Node Package Manager)" alt="NPM"/></code>
-<code><img height="32" src="icons/PostgreSQL-Dark.svg" title="PostgreSQL (Open-Source Relational Database)" alt="PostgreSQL"/></code>
-<code><img height="32" src="icons/Prisma.svg" title="Prisma (Database Toolkit)" alt="Prisma"/></code>
-<code><img height="32" src="icons/VSCode-Dark.svg" title="Visual Studio Code (Code Editor)" alt="VS Code"/></code>
+<img height="32" src="icons/HTML.svg" title="HTML (HyperText Markup Language)" alt="HTML"/>
+<img height="32" src="icons/CSS.svg" title="CSS (Cascading Style Sheets)" alt="CSS"/>
+<img height="32" src="icons/JavaScript.svg" title="JavaScript (Programming Language)" alt="JavaScript"/>
+<img height="32" src="icons/TypeScript.svg" title="TypeScript (Superset of JavaScript)" alt="TypeScript"/>
+<img height="32" src="icons/React-Dark.svg" title="React (JavaScript Library for Building User Interfaces)" alt="React"/>
+<img height="32" src="icons/PHP-Dark.svg" title="PHP (Hypertext Preprocessor)" alt="PHP"/>
+<img height="32" src="icons/Git.svg" title="Git (Version Control System)" alt="Git"/>
+<img height="32" src="icons/NodeJS-Dark.svg" title="Node.js (JavaScript Runtime Environment)" alt="Node.js"/>
+<img height="32" src="icons/Npm-Dark.svg" title="NPM (Node Package Manager)" alt="NPM"/>
+<img height="32" src="icons/PostgreSQL-Dark.svg" title="PostgreSQL (Open-Source Relational Database)" alt="PostgreSQL"/>
+<img height="32" src="icons/Prisma.svg" title="Prisma (Database Toolkit)" alt="Prisma"/>
+<img height="32" src="icons/VSCode-Dark.svg" title="Visual Studio Code (Code Editor)" alt="VS Code"/>
 
 </div>
     
@@ -70,4 +70,3 @@ class SobreMim extends Desenvolvedor {
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=fff&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
 </h1>
 </footer>
-# CaiqueOrtega
