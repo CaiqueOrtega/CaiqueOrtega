@@ -36,18 +36,20 @@ class SobreMim extends Desenvolvedor {
 <div align="center" >
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 
-<code><img height="32" src="icons/HTML.svg" title="HTML (HyperText Markup Language)" alt="HTML"/></code>
-<code><img height="32" src="icons/CSS.svg" title="CSS (Cascading Style Sheets)" alt="CSS"/></code>
-<code><img height="32" src="icons/JavaScript.svg" title="JavaScript (Programming Language)" alt="JavaScript"/></code>
-<code><img height="32" src="icons/TypeScript.svg" title="TypeScript (Superset of JavaScript)" alt="TypeScript"/></code>
-<code><img height="32" src="icons/React-Dark.svg" title="React (JavaScript Library for Building User Interfaces)" alt="React"/></code>
-<code><img height="32" src="icons/PHP-Dark.svg" title="PHP (Hypertext Preprocessor)" alt="PHP"/></code>
-<code><img height="32" src="icons/Git.svg" title="Git (Version Control System)" alt="Git"/></code>
-<code><img height="32" src="icons/NodeJS-Dark.svg" title="Node.js (JavaScript Runtime Environment)" alt="Node.js"/></code>
-<code><img height="32" src="icons/Npm-Dark.svg" title="NPM (Node Package Manager)" alt="NPM"/></code>
-<code><img height="32" src="icons/PostgreSQL-Dark.svg" title="PostgreSQL (Open-Source Relational Database)" alt="PostgreSQL"/></code>
-<code><img height="32" src="icons/Prisma.svg" title="Prisma (Database Toolkit)" alt="Prisma"/></code>
-<code><img height="32" src="icons/VSCode-Dark.svg" title="Visual Studio Code (Code Editor)" alt="VS Code"/></code>
+<code><img height="32" src="icons/HTML.svg" title="HTML (HyperText Markup Language)" alt="HTML Logo"/></code>
+<code><img height="32" src="icons/CSS.svg" title="CSS (Cascading Style Sheets)" alt="CSS Logo"/></code>
+<code><img height="32" src="icons/Bootstrap.svg" title="Bootstrap (Front-End Framework)" alt="Bootstrap Logo"/></code>
+<code><img height="32" src="icons/TailwindCSS-Dark.svg" title="TailwindCSS (Utility-First CSS Framework)" alt="TailwindCSS Logo"/></code>
+<code><img height="32" src="icons/JavaScript.svg" title="JavaScript (Programming Language)" alt="JavaScript Logo"/></code>
+<code><img height="32" src="icons/TypeScript.svg" title="TypeScript (Superset of JavaScript)" alt="TypeScript Logo"/></code>
+<code><img height="32" src="icons/React-Dark.svg" title="React (JavaScript Library for Building User Interfaces)" alt="React Logo"/></code>
+<code><img height="32" src="icons/PHP-Dark.svg" title="PHP (Hypertext Preprocessor)" alt="PHP Logo"/></code>
+<code><img height="32" src="icons/Git.svg" title="Git (Version Control System)" alt="Git Logo"/></code>
+<code><img height="32" src="icons/NodeJS-Dark.svg" title="Node.js (JavaScript Runtime Environment)" alt="Node.js Logo"/></code>
+<code><img height="32" src="icons/Npm-Dark.svg" title="NPM (Node Package Manager)" alt="NPM Logo"/></code>
+<code><img height="32" src="icons/PostgreSQL-Dark.svg" title="PostgreSQL (Open-Source Relational Database)" alt="PostgreSQL Logo"/></code>
+<code><img height="32" src="icons/Prisma.svg" title="Prisma (Database Toolkit)" alt="Prisma Logo"/></code>
+<code><img height="32" src="icons/VSCode-Dark.svg" title="Visual Studio Code (Code Editor)" alt="Visual Studio Code Logo"/></code>
 
 </div>
     
