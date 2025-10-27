@@ -9,6 +9,8 @@
   ## 💻 Sobre Mim
   
 ```js
+import Desenvolvedor from "CaiqueOrtega";
+
 class SobreMim extends Desenvolvedor {
     constructor() {
         super();
