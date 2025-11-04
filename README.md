@@ -1,5 +1,5 @@
 <header>
-  <div align="center">
+  <div>
     <img src="assets/images/banner.png" alt="Banner Caique Ortega">
   </div>
 </header>
