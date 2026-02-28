@@ -23,6 +23,8 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-          commit_message: "🐍 Atualizando animação da cobrinha automaticamente"
+          commit_message: "🐍 Update snake animation automatically"
+          committer: Caique Ortega <caique.ortega.dev@gmail.com>
+          author: Caique Ortega <caique.ortega.dev@gmail.com>
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
